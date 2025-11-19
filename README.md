@@ -25,8 +25,8 @@ I enjoy creating **repeatable**, **documented**, and **maintainable** environmen
 ## **Core Skills**
 
 ### **Cloud & Infrastructure**
-- Terraform (IaC modules, workspace patterns, remote state)
-- Docker & Kubernetes (manifests, cluster basics, Helm fundamentals)
+- Terraform 
+- Docker & Kubernetes 
 
 ### **Observability**
 - Grafana Stack: **Loki**, **Prometheus**, **Tempo**, **Grafana dashboards**
@@ -40,35 +40,7 @@ I enjoy creating **repeatable**, **documented**, and **maintainable** environmen
 ### **Systems**
 - Windows Server provisioning  
 - Active Directory lab automation  
-- Linux administration (Ubuntu, CentOS)
-
----
-
-## **Highlighted Projects**
-
-### **🔹 Grafana Observability Platform**
-A full observability stack using Prometheus, Loki, Tempo, and Grafana.  
-Includes dashboards, alert rules, scraping configs, log pipelines, and deployment automation.
-
-**Tech:** Terraform • Docker • Kubernetes • Prometheus • Loki • Tempo  
-**Repo:** [Observability](https://github.com/richardmussell)
-
----
-
-### **🔹 Automated Windows Server Lab**
-Repeatable provisioning of Windows Server domains and services.  
-Covers ADDS, server roles, domain configs, and automation at scale.
-
-**Tech:** Terraform • PowerShell • Windows Server • Active Directory  
-**Repo:** [<YOUR-LINK-HERE>](https://github.com/richardmussell/AD-Lab-Provisioning)
-
----
-
-### **🔹 Splunk Server Setup & Ingest Pipeline**
-Enterprise-style Splunk instance with forwarders, parsing logic, dashboards, and ingest pipelines.
-
-**Tech:** Splunk • Linux • Syslog • Log Pipelines  
-**Repo:** <YOUR-LINK-HERE>
+- Linux administration 
 
 ---
 
@@ -77,29 +49,6 @@ Enterprise-style Splunk instance with forwarders, parsing logic, dashboards, and
 - Windows Server lab provisioning modules  
 - Splunk dashboards + ingest/alerting pipelines  
 - CI/CD pipelines for multi-stage deployments  
-
----
-
-## **Engineering Principles**
-- **Automate everything repeatable**  
-- **Prefer clarity over cleverness**  
-- **Document while building, not after**  
-- **Measure before optimizing**  
-- **Systems should be observable, debuggable, and recoverable**  
-- **Simplicity scales; complexity breaks**  
-
----
-
-## **Tech Stack Overview**
-
-### **Primary Tools**
-Terraform • Kubernetes • Docker • Grafana Stack • Splunk • GitHub Actions • GitLab CI
-
-### **Platforms & Systems**
-Linux • Windows Server • Identity Services • Logging & Metrics Pipelines
-
-### **Secondary Skills**
-Helm • YAML/K8s patterns • System hardening • Monitoring/alerting
 
 ---
 
