@@ -1,16 +1,13 @@
-## Hi there 👋
+Richard Mussell
 
-<!--
-**richardmussell/richardmussell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Engineer | DevOps | Observability | Systems Automation
 
-Here are some ideas to get you started:
+I focus on building reliable, scalable, and automated infrastructure. My interests center around cloud-native tooling, observability stacks, CI/CD pipelines, and end-to-end systems automation. I enjoy creating repeatable, well-documented environments that make teams faster and systems more dependable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Core Skills
+
+Cloud & Infrastructure: Terraform, Kubernetes, Docker
+Observability: Grafana Stack (Loki, Prometheus, Tempo), Splunk (server setup & configuration)
+Automation & CI/CD: GitHub Actions, GitLab CI, pipeline optimization
+Systems: Windows Server provisioning, Active Directory lab automation, Linux server administration
+Other Interests: Infrastructure as Code, system hardening, log pipelines, distributed monitoring
