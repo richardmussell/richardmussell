@@ -40,12 +40,6 @@ Actively developing skills in:
 
 ---
 
-## **Contact**
-<a href="mailto:richard.mussell@yahoo.com">richard.mussell@yahoo.com</a>
-<a href="https://www.linkedin.com/in/richard-mussell/">linkedin.com/in/richard-mussell</a>
-
----
-
 # **GitHub Activity & Stats**
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=richardmussell&bg_color=ffffff&color=000000&line=000000&point=333333&radius=5)
