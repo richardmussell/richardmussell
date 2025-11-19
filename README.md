@@ -1,6 +1,6 @@
 Richard Mussell
 
-Cloud Engineer | DevOps | Observability | Systems Automation
+Cloud Engineer | SysAdmin | DevOps | Observability | Systems Automation
 
 I focus on building reliable, scalable, and automated infrastructure. My interests center around cloud-native tooling, observability stacks, CI/CD pipelines, and end-to-end systems automation. I enjoy creating repeatable, well-documented environments that make teams faster and systems more dependable.
 
