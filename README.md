@@ -22,28 +22,6 @@ I enjoy creating **repeatable**, **documented**, and **maintainable** environmen
 
 ---
 
-## **Core Skills**
-
-### **Cloud & Infrastructure**
-- Terraform 
-- Docker & Kubernetes 
-
-### **Observability**
-- Grafana Stack: **Loki**, **Prometheus**, **Tempo**, **Grafana dashboards**
-- Splunk server deployment, ingest pipelines, parsing, forwarders
-
-### **Automation & CI/CD**
-- GitHub Actions  
-- GitLab CI  
-- Environment automation and scripting
-
-### **Systems**
-- Windows Server provisioning  
-- Active Directory lab automation  
-- Linux administration 
-
----
-
 ## **Currently Building**
 - Kubernetes-ready observability automation  
 - Windows Server lab provisioning modules  
