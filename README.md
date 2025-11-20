@@ -59,13 +59,10 @@ Actively developing skills in:
 ---
 
 ## **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge)](https://your-portfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/richard-mussell/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=github)](https://richardmussell.github.io/about/)  
 [![Resume](https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge)](https://your-resume-link.com)
 
 ---
 
-# **GitHub Activity & Stats**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=richardmussell&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardmussell&layout=compact&theme=radical)
 
