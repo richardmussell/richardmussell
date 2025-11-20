@@ -5,10 +5,10 @@
 
 <!-- Core DevOps / Cloud Tools -->
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-5C4EE5?style=flat&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Containers-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Containers-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/Automation-CI/CD-blue?style=flat&logo=githubactions&logoColor=white)
-![Ansible](https://img.shields.io/badge/Automation-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Scripting-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Scripting-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Golang](https://img.shields.io/badge/Scripting-Go-00ADD8?style=flat&logo=go&logoColor=white)
