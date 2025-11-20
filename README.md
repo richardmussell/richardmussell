@@ -11,6 +11,7 @@
 ![Ansible](https://img.shields.io/badge/Automation-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/Scripting-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Scripting-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Golang](https://img.shields.io/badge/Scripting-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 <!-- Observability & Logging -->
 ![Grafana](https://img.shields.io/badge/Observability-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
@@ -51,5 +52,20 @@ Actively developing skills in:
 
 ---
 
+## **CI/CD Workflow**
+![CI/CD Workflow](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif)  
+*Replace this GIF with your actual workflow visualization.*
+
+---
+
+## **Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge)](https://your-portfolio.com)  
+[![Resume](https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge)](https://your-resume-link.com)
+
+---
+
 # **GitHub Activity & Stats**
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=richardmussell&bg_color=ffffff&color=000000&line=000000&point=333333&radius=5)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=richardmussell&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardmussell&layout=compact&theme=radical)
+
