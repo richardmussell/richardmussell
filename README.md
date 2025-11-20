@@ -61,7 +61,7 @@ Actively developing skills in:
 ## **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/richard-mussell/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=github)](https://richardmussell.github.io/about/)  
-[![Resume](https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge)]([https://your-resume-link.com](https://storage.googleapis.com/richard-mussell-resume-pdf/resume.pdf))
+[![Resume](https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge)](https://storage.googleapis.com/richard-mussell-resume-pdf/resume.pdf)
 
 ---
 
