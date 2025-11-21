@@ -78,20 +78,40 @@ I design and implement **fault-tolerant, self-healing distributed systems** at s
 
 ---
 
-### 📊 **Engineering Metrics**
-
 <div align="center">
+  
+  <!-- TITLE -->
+  <h1>Hi there, I'm <a href="https://github.com/richardmussell">Richard Mussell</a>! <img src="https://media.giphy.com/media/hvRJCLFzcuHTK/giphy.gif" width="25px"></h1>
 
-<!-- STATS CARD: Transparent, clean, rigorous -->
-<img src="https://github-readme-stats.vercel.app/api?username=richardmussell&show_icons=true&theme=transparent&hide_border=true&title_color=A31F34&icon_color=000000&text_color=333333&count_private=true" alt="Richard's Stats" height="160"/>
+  <!-- 3D CITY (Spans full width) -->
+  <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
+    <img src="profile-3d-contrib/profile-night-view.svg" alt="3D City" width="100%" />
+  </a>
 
-&nbsp;&nbsp;
+  <br/><br/>
 
-<!-- TOP LANGUAGES: Compact view -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmussell&layout=compact&theme=transparent&hide_border=true&title_color=A31F34&text_color=333333" alt="Top Langs" height="160"/>
-
+  <!-- DASHBOARD ROW (Snake + Stats) -->
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3 align="center">🐍 Contribution Snake</h3>
+        <div align="center">
+          <img src="dist/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <h3 align="center">📊 GitHub Stats</h3>
+        <div align="center">
+          <!-- REPLACE 'YOUR_USERNAME' BELOW -->
+          <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
+          <br/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
+        </div>
+      </td>
+    </tr>
+  </table>
+  
 </div>
-
 ---
 
 ### 🧩 Contribution Activity
