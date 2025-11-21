@@ -29,7 +29,7 @@
 
 ### 👨‍💻 **About Me**
 
-I engineer **resilient, self-healing infrastructure** for the cloud-native era. My focus is on eliminating toil through aggressive automation and building **Internal Developer Platforms (IDP)** that empower teams to ship faster.
+I engineer **resilient, self-healing infrastructure** for the cloud-native era.
 
 *   🔭 **Currently working on:** Designing a multi-cluster Kubernetes service mesh with Istio and ArgoCD.
 *   🌱 **Deep diving into:** eBPF for observability and advanced Chaos Engineering patterns.
@@ -87,12 +87,11 @@ I engineer **resilient, self-healing infrastructure** for the cloud-native era. 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
-
----
-
+### 🧩 **Contribution Graph**
+<!-- This requires a GitHub Action workflow to function. If you haven't set it up, remove this section or set up the action. -->
 <div align="center">
-
-<!-- Visitor Counter - A classic old school touch that is popular again -->
-![Visitor Count](https://profile-counter.glitch.me/YourUsername/count.svg)
-
+  <img src="https://github.com/richardmussell/richardmussell/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+---
+<div align="center">
 </div>
