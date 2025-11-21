@@ -1,0 +1,51 @@
+name: Upper Echelon Metrics
+
+on:
+  # The "Living Organism" Heartbeat (Every 12 hours)
+  schedule:
+    - cron: "0 */12 * * *" 
+  # Allow manual trigger from Actions tab for testing
+  workflow_dispatch:
+  # Run on pushes to main/master so it updates immediately after you edit code
+  push:
+    branches:
+      - master
+      - main
+
+jobs:
+  generate-metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    permissions:
+      contents: write
+
+    steps:
+      # 1. Checkout Code
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # 2. Generate The Snake (The Micro View)
+      - name: Generate Snake Game
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Generate The 3D City (The Macro View)
+      - name: Generate 3D Contrib
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # 4. Commit & Push (The Persistence Layer)
+      - name: Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update upper echelon metrics"
+          file_pattern: "dist/* profile-3d-contrib/*"
