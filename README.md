@@ -97,9 +97,8 @@ I design and implement **fault-tolerant, self-healing distributed systems** at s
 ### 🧩 Contribution Activity
 
 <!-- 3D CITY SKYLINE -->
-<!-- Requires: profile-3d.yml workflow. Adds a massive "wow" factor." -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/richardmussell/richardmussell/main/profile-3d-contrib/profile-3d.svg"
+  <img src="profile-3d-contrib/profile-green-animate.svg"
        alt="3D Contribution Graph"
        width="100%" />
 </div>
