@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- HEADER -->
+<!-- HEADER: Minimalist, High-Contrast, Engineering Focused -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=A31F34&center=true&vCenter=true&width=600&lines=Richard+Mussell;Principal+Platform+Engineer;Distributed+Systems+Architecture;SRE+%7C+Cloud+Native+Infrastructure" alt="Typing SVG" />
 </a>
 
 ### **Cloud Architecture | Site Reliability Engineering | DevSecOps**
 
-<!-- SOCIALS -->
+<!-- SOCIALS: Uniform, Professional "Badge" Style -->
 <p align="center">
   <a href="https://www.linkedin.com/in/richard-mussell/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -18,6 +18,7 @@
   <a href="https://storage.googleapis.com/richard-mussell-resume-pdf/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV%20%2F%20Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
   </a>
+  <!-- NOTE: Strongly recommend using a Gmail or custom domain for FAANG applications -->
   <a href="mailto:richard.mussell@yahoo.com">
     <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -41,6 +42,7 @@ I design and implement **fault-tolerant, self-healing distributed systems** at s
 
 <div align="center">
 
+<!-- Use a table for cleaner alignment - a very "Academic" look -->
 <table>
   <tr>
     <td align="center" width="25%"><b>Cloud & Compute</b></td>
@@ -76,38 +78,40 @@ I design and implement **fault-tolerant, self-healing distributed systems** at s
 
 ---
 
+### 📊 **Engineering Metrics**
+
 <div align="center">
-  
-  <!-- 3D CITY SKYLINE -->
-  <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-    <img src="profile-3d-contrib/profile-night-view.svg" alt="3D City" width="100%" />
-  </a>
 
-  <br/><br/>
+<!-- STATS CARD: Transparent, clean, rigorous -->
+<img src="https://github-readme-stats.vercel.app/api?username=richardmussell&show_icons=true&theme=transparent&hide_border=true&title_color=A31F34&icon_color=000000&text_color=333333&count_private=true" alt="Richard's Stats" height="160"/>
 
-  <!-- DASHBOARD ROW (Snake + Stats) -->
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3 align="center">🐍 Contribution Snake</h3>
-        <div align="center">
-          <!-- Fixed Path: Points to the dist folder created by the workflow -->
-          <img src="dist/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
-        </div>
-      </td>
-      <td valign="top" width="50%">
-        <h3 align="center">📊 GitHub Stats</h3>
-        <div align="center">
-          <!-- Fixed Username: richardmussell -->
-          <img src="https://github-readme-stats.vercel.app/api?username=richardmussell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
-          <br/>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmussell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
-        </div>
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
+&nbsp;&nbsp;
+
+<!-- TOP LANGUAGES: Compact view -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmussell&layout=compact&theme=transparent&hide_border=true&title_color=A31F34&text_color=333333" alt="Top Langs" height="160"/>
+
+</div>
+
+---
+
+### 🧩 Contribution Activity
+
+<!-- 3D CITY SKYLINE -->
+<div align="center">
+  <img src="profile-3d-contrib/profile-green-animate.svg"
+       alt="3D Contribution Graph"
+       width="100%" />
+</div>
+<br/>
+
+<!-- SNAKE GAME -->
+<!-- Requires: snake.yml workflow. The recruiter favorite. -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/richardmussell/richardmussell/output/github-contribution-grid-snake.svg" 
+       alt="Snake animation" 
+       width="100%" />
+</div>
+
+<div align="center">
   <sub><i>Generating resilient infrastructure, one commit at a time.</i></sub>
-
 </div>
