@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- HEADER: Minimalist, High-Contrast, Engineering Focused -->
+<!-- HEADER -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=A31F34&center=true&vCenter=true&width=600&lines=Richard+Mussell;Principal+Platform+Engineer;Distributed+Systems+Architecture;SRE+%7C+Cloud+Native+Infrastructure" alt="Typing SVG" />
 </a>
 
 ### **Cloud Architecture | Site Reliability Engineering | DevSecOps**
 
-<!-- SOCIALS: Uniform, Professional "Badge" Style -->
+<!-- SOCIALS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/richard-mussell/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -18,7 +18,6 @@
   <a href="https://storage.googleapis.com/richard-mussell-resume-pdf/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV%20%2F%20Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
   </a>
-  <!-- NOTE: Strongly recommend using a Gmail or custom domain for FAANG applications -->
   <a href="mailto:richard.mussell@yahoo.com">
     <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -42,7 +41,6 @@ I design and implement **fault-tolerant, self-healing distributed systems** at s
 
 <div align="center">
 
-<!-- Use a table for cleaner alignment - a very "Academic" look -->
 <table>
   <tr>
     <td align="center" width="25%"><b>Cloud & Compute</b></td>
@@ -68,7 +66,6 @@ I design and implement **fault-tolerant, self-healing distributed systems** at s
 
 <br/>
 
-<!-- LANGUAGE STRIP -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
@@ -78,40 +75,70 @@ I design and implement **fault-tolerant, self-healing distributed systems** at s
 
 ---
 
-### 📊 **Engineering Metrics**
-
+<!-- THE UPPER ECHELON DASHBOARD -->
 <div align="center">
+  <table>
+    <tr>
+      <!-- LEFT: The Macro View -->
+      <td width="50%" align="center" valign="top">
+        <h3>Global Architecture</h3>
+        <picture>
+          <!-- Dark Mode -->
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richardmussell/richardmussell/main/profile-3d-contrib/profile-night-rainbow.svg">
+          <!-- Light Mode -->
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richardmussell/richardmussell/main/profile-3d-contrib/profile-season-animate.svg">
+          <!-- Fallback -->
+          <img src="https://raw.githubusercontent.com/richardmussell/richardmussell/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph" />
+        </picture>
+        <br/>
+        <sub><b>Commit Topography</b></sub>
+      </td>
+      <!-- RIGHT: The Micro View -->
+      <td width="50%" align="center" valign="top">
+        <h3>Contribution Flow</h3>
+        <picture>
+          <!-- Dark Mode -->
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richardmussell/richardmussell/main/dist/github-contribution-grid-snake-dark.svg">
+          <!-- Light Mode -->
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richardmussell/richardmussell/main/dist/github-contribution-grid-snake.svg">
+          <!-- Fallback -->
+          <img src="https://raw.githubusercontent.com/richardmussell/richardmussell/main/dist/github-contribution-grid-snake.svg" width="100%" alt="Snake Game" />
+        </picture>
+        <br/>
+        <sub><b>Velocity Metrics</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- STATS CARD: Transparent, clean, rigorous -->
-<img src="https://github-readme-stats.vercel.app/api?username=richardmussell&show_icons=true&theme=transparent&hide_border=true&title_color=A31F34&icon_color=000000&text_color=333333&count_private=true" alt="Richard's Stats" height="160"/>
-
-&nbsp;&nbsp;
-
-<!-- TOP LANGUAGES: Compact view -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmussell&layout=compact&theme=transparent&hide_border=true&title_color=A31F34&text_color=333333" alt="Top Langs" height="160"/>
-
+<!-- ISOMETRIC BLOCKCHAIN: HIDDEN LAYER -->
+<div align="center">
+  <details>
+    <summary><b>🔻 Declassify Deep Storage (Click to Expand)</b></summary>
+    <br/>
+    <picture>
+      <!-- Dark Mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richardmussell/richardmussell/main/profile-3d-contrib/profile-night-green.svg">
+      <!-- Light Mode -->
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richardmussell/richardmussell/main/profile-3d-contrib/profile-gitblock.svg">
+      <!-- Fallback -->
+      <img src="https://raw.githubusercontent.com/richardmussell/richardmussell/main/profile-3d-contrib/profile-gitblock.svg" width="100%" alt="Isometric Block" />
+    </picture>
+    <br/><br/>
+    <a href="https://github.com/richardmussell">
+      <img src="https://img.shields.io/badge/System_Status-OPERATIONAL-success?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </details>
 </div>
 
 ---
 
-### 🧩 Contribution Activity
-
-<!-- 3D CITY SKYLINE -->
-<div align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg"
-       alt="3D Contribution Graph"
-       width="100%" />
-</div>
-<br/>
-
-<!-- SNAKE GAME -->
-<!-- Requires: snake.yml workflow. The recruiter favorite. -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/richardmussell/richardmussell/output/github-contribution-grid-snake.svg" 
-       alt="Snake animation" 
-       width="100%" />
-</div>
+### 📊 **Engineering Metrics**
 
 <div align="center">
-  <sub><i>Generating resilient infrastructure, one commit at a time.</i></sub>
+<img src="https://github-readme-stats.vercel.app/api?username=richardmussell&show_icons=true&theme=transparent&hide_border=true&title_color=A31F34&icon_color=000000&text_color=333333&count_private=true" alt="Richard's Stats" height="160"/>
+
+&nbsp;&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmussell&layout=compact&theme=transparent&hide_border=true&title_color=A31F34&text_color=333333" alt="Top Langs" height="160"/>
 </div>
