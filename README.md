@@ -27,7 +27,7 @@
 
 ---
 
-### 👨‍💻 **About Me**
+###  **About Me**
 
 I am a hands-on **Cloud & DevOps Engineer** focused on building reliable infrastructure and eliminating toil through automation. I bridge the gap between development and operations by maintaining healthy systems and smooth deployment pipelines.
 
@@ -37,7 +37,7 @@ I am a hands-on **Cloud & DevOps Engineer** focused on building reliable infrast
 
 ---
 
-### 🛠 **Technical Skills**
+###  **Technical Skills**
 
 <div align="center">
 
@@ -56,7 +56,7 @@ I am a hands-on **Cloud & DevOps Engineer** focused on building reliable infrast
 
 ---
 
-### 📊 **GitHub Activity**
+###  **GitHub Activity**
 
 <div align="center">
   <picture>
