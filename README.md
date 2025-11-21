@@ -10,13 +10,11 @@
 ![CI/CD](https://img.shields.io/badge/Automation-CI/CD-blue?style=flat&logo=githubactions&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Scripting-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Scripting-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Golang](https://img.shields.io/badge/Scripting-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 <!-- Observability & Logging -->
 ![Grafana](https://img.shields.io/badge/Observability-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Metrics-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Splunk](https://img.shields.io/badge/Logs-Splunk-000000?style=flat&logo=splunk&logoColor=white)
 
 <!-- Cloud Providers -->
 ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -37,7 +35,6 @@ I enjoy creating **repeatable**, **documented**, and **maintainable** environmen
 ## **Currently Building**
 - Kubernetes-ready observability automation  
 - Windows Server lab provisioning modules  
-- Splunk dashboards + ingest/alerting pipelines  
 - CI/CD pipelines for multi-stage deployments  
 
 ---
@@ -54,7 +51,7 @@ Actively developing skills in:
 
 ## **CI/CD Workflow**
 ![CI/CD Workflow](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif)  
-*Replace this GIF with your actual workflow visualization.*
+Coming Soon
 
 ---
 
