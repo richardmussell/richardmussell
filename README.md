@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- HEADER & TYPING SVG -->
-<!-- Adjusted for Mid-Level/Senior Ops roles -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Cloud+Infrastructure+Engineer;Linux+System+Administration;DevOps+%26+CI%2FCD+Automation;Reliability+%7C+Scripting+%7C+Monitoring" alt="Typing SVG" />
 </a>
@@ -28,7 +27,7 @@
 
 ---
 
-###  **About Me**
+### 👨‍💻 **About Me**
 
 I am a hands-on **Cloud & DevOps Engineer** focused on building reliable infrastructure and eliminating toil through automation. I bridge the gap between development and operations by maintaining healthy systems and smooth deployment pipelines.
 
@@ -38,7 +37,7 @@ I am a hands-on **Cloud & DevOps Engineer** focused on building reliable infrast
 
 ---
 
-###  **Technical Skills**
+### 🛠 **Technical Skills**
 
 <div align="center">
 
@@ -57,32 +56,8 @@ I am a hands-on **Cloud & DevOps Engineer** focused on building reliable infrast
 
 ---
 
-###  **GitHub Activity**
+### 📊 **GitHub Activity**
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center" valign="top" style="border: none;">
-        <picture>
-          <!-- Standard 3D Graph - Looks professional but not overly flashy -->
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richardmussell/richardmussell/main/profile-3d-contrib/profile-night-rainbow.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richardmussell/richardmussell/main/profile-3d-contrib/profile-season-animate.svg">
-          <img src="https://raw.githubusercontent.com/richardmussell/richardmussell/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph" />
-        </picture>
-      </td>
-      <td width="50%" align="center" valign="top" style="border: none;">
-         <!-- Standard Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=richardmussell&show_icons=true&theme=minimal&hide_border=true&bg_color=transparent&count_private=true" alt="stats graph" width="100%" />
-        <br/>
-        <br/>
-        <!-- Top Languages - Shows you code in practical languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmussell&layout=compact&theme=minimal&hide_border=true&bg_color=transparent&langs_count=6" alt="languages graph" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Simple Snake Animation - Shows consistency -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richardmussell/richardmussell/main/dist/github-contribution-grid-snake-dark.svg">
