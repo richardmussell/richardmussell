@@ -90,7 +90,9 @@ I engineer **resilient, self-healing infrastructure** for the cloud-native era.
 ### 🧩 **Contribution Graph**
 <!-- This requires a GitHub Action workflow to function. If you haven't set it up, remove this section or set up the action. -->
 <div align="center">
-  <img src="https://github.com/richardmussell/richardmussell/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/richardmussell/richardmussell/output/github-contribution-grid-snake.svg" 
+       alt="Snake animation" 
+       width="100%" />
 </div>
 ---
 <div align="center">
