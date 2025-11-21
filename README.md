@@ -1,65 +1,122 @@
 <div align="center">
 
-# **Richard Mussell**  
-### **Cloud Engineer | DevOps | SysAdmin | Systems Automation**
+<!-- Typing SVG: Dynamic header that looks like code being typed -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Richard+Mussell;Platform+Engineer+%7C+Cloud+Architect;Automating+Everything;Deploying+at+Scale" alt="Typing SVG" />
+</a>
 
-<!-- Core DevOps / Cloud Tools -->
-![Terraform](https://img.shields.io/badge/IaC-Terraform-5C4EE5?style=flat&logo=terraform&logoColor=white)
+### **Cloud Engineering | SysAdmin | DevSecOps**
 
-![Docker](https://img.shields.io/badge/Containers-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/Automation-CI/CD-blue?style=flat&logo=githubactions&logoColor=white)
-
-![Python](https://img.shields.io/badge/Scripting-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Golang](https://img.shields.io/badge/Scripting-Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-<!-- Observability & Logging -->
-![Grafana](https://img.shields.io/badge/Observability-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Metrics-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-
-<!-- Cloud Providers -->
-![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Cloud-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Cloud-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+<!-- Socials / Quick Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/richard-mussell/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://richardmussell.github.io/about/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://storage.googleapis.com/richard-mussell-resume-pdf/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="mailto:richard.mussell@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## **About Me**
-I focus on building **reliable, scalable, and automated infrastructure** across cloud, on-prem, and hybrid environments.  
-My interests center around cloud-native tooling, observability stacks, CI/CD pipelines, and end-to-end systems automation.  
-I enjoy creating **repeatable**, **documented**, and **maintainable** environments that improve team effectiveness and system resilience.
+### 👨‍💻 **About Me**
+
+I engineer **resilient, self-healing infrastructure** for the cloud-native era. My focus is on eliminating toil through aggressive automation and building **Internal Developer Platforms (IDP)** that empower teams to ship faster.
+
+*   🔭 **Currently working on:** Designing a multi-cluster Kubernetes service mesh with Istio and ArgoCD.
+*   🌱 **Deep diving into:** eBPF for observability and advanced Chaos Engineering patterns.
+*   💡 **Philosophy:** Infrastructure as Code is good; Infrastructure as Data is better.
 
 ---
 
-## **Currently Building**
-- Kubernetes-ready observability automation  
-- Windows Server lab provisioning modules  
-- CI/CD pipelines for multi-stage deployments  
+### 🛠 **Technical Arsenal**
+
+<div align="center">
+
+<!-- CLOUD PROVIDERS -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+
+<br/>
+
+<!-- ORCHESTRATION & CONTAINERS -->
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
+
+<br/>
+
+<!-- IaC & CONFIG MANAGEMENT -->
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" />
+<img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white" />
+
+<br/>
+
+<!-- CI/CD & GITOPS -->
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+
+<br/>
+
+<!-- OBSERVABILITY -->
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+
+<br/>
+
+<!-- SCRIPTING & BACKEND -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
 
 ---
 
-## **Learning & Growth**
-Actively developing skills in:
+### 📊 **GitHub Analytics**
 
-- Kubernetes cluster operations  
-- Advanced Terraform patterns (modules, testing, private registries)  
-- Observability engineering at scale  
-- Multi-cloud basics (AWS/Azure/GCP)
-
----
-
-## **CI/CD Workflow**
-![CI/CD Workflow](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif)  
-Coming Soon
-
----
-
-## **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/richard-mussell/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=github)](https://richardmussell.github.io/about/)  
-[![Resume](https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge)](https://storage.googleapis.com/richard-mussell-resume-pdf/resume.pdf)
+<!-- These cards update automatically. REPLACE 'YourUsername' with your actual GitHub handle -->
+<div align="center">
+  <a href="https://github.com/YourUsername">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" alt="GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/YourUsername">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180" />
+  </a>
+</div>
+<br clear="all"/>
+<br/>
 
 ---
 
+### 🧩 **Contribution Graph**
+<!-- This requires a GitHub Action workflow to function. If you haven't set it up, remove this section or set up the action. -->
+<div align="center">
+  <img src="https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
 
+---
+
+<div align="center">
+
+<!-- Visitor Counter - A classic old school touch that is popular again -->
+![Visitor Count](https://profile-counter.glitch.me/YourUsername/count.svg)
+
+</div>
