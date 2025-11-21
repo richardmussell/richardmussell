@@ -90,30 +90,6 @@ I engineer **resilient, self-healing infrastructure** for the cloud-native era. 
 
 ---
 
-### 📊 **GitHub Analytics**
-
-<!-- These cards update automatically. REPLACE 'YourUsername' with your actual GitHub handle -->
-<div align="center">
-  <a href="https://github.com/YourUsername">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" alt="GitHub Stats" height="180" />
-  </a>
-  <a href="https://github.com/YourUsername">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180" />
-  </a>
-</div>
-<br clear="all"/>
-<br/>
-
----
-
-### 🧩 **Contribution Graph**
-<!-- This requires a GitHub Action workflow to function. If you haven't set it up, remove this section or set up the action. -->
-<div align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
-
----
-
 <div align="center">
 
 <!-- Visitor Counter - A classic old school touch that is popular again -->
