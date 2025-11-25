@@ -51,8 +51,6 @@ To architect the supercomputers of tomorrow, one must master the SysAdmin tools 
 
 ### 🏁 **The "Bleeding Edge"**
 
-My labs and research focus on the technologies replacing legacy DevOps practices.
-
 #### 1. Infrastructure as Data (IaD)
 *Moving beyond fragile YAML.*
 I am utilizing **KCL (Kubernetes Config Language)** and **CUE** to bring type-safety, logic, and validation to infrastructure definition.
