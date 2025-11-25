@@ -20,7 +20,7 @@
 
 ### 🛞 **Sovereign Compute**
 
-I am a **Systems Engineer** (B.S. Information Technology) leveraging a hardened foundation in **Cisco Networking** and **Cybersecurity Operations (SOC)** to engineer the next generation of infrastructure
+I am a **Systems Engineer** (B.S. Information Technology) leveraging a hardened foundation in **Cisco Networking** and **Cybersecurity Operations (SOC)** to engineer the next generation of infrastructure.
 
 My focus is on the post-cloud paradigm: **Cloud Repatriation**, **Edge AI**, and **Infrastructure as Data**. As workloads scale and latency demands tighten, infrastructure must return to the metal.
 
