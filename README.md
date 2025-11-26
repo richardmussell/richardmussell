@@ -26,7 +26,7 @@ My focus is on the post-cloud paradigm: **Cloud Repatriation**, **Edge AI**, and
 
 *    **My Mission:** To bypass high-level abstractions and master the Linux primitives (**Kernel**, **eBPF**) that power high-performance computing.
 *    **The Advantage:** Applying my **Network Engineering** (L2/L3) and **SOC Analyst** experience to secure and optimize the bare-metal layers that AI demands.
-*    **Current Focus:** Transitioning architectures from imperative "Infrastructure as Code" (YAML) to declarative "Infrastructure as Data" to guarantee mathematical stability in production.
+*    **Current Focus:** To guarantee idempotent deployments and eliminate infrastructure drift by adopting strictly-typed configuration management.
 
 ---
 
@@ -53,7 +53,7 @@ To architect the supercomputers of tomorrow, one must master the SysAdmin tools 
 
 <div align="center">
 
-| **Core Foundation** | **Orchestration** | **Automation & IaC** | **Future Tech** |
+| **Core Foundation** | **Orchestration** | **Automation & IaC** | **Observability** |
 |:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=linux,redhat,bash&theme=light" /> | <img src="https://skillicons.dev/icons?i=kubernetes,docker,helm&theme=light" /> | <img src="https://skillicons.dev/icons?i=ansible,terraform,githubactions&theme=light" /> | <img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=light" /> |
 
