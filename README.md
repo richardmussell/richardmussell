@@ -22,7 +22,7 @@
 
 I am a **Systems Engineer** (B.S. Information Technology) leveraging a hardened foundation in **Cisco Networking** and **Cybersecurity Operations (SOC)** to engineer the next generation of infrastructure.
 
-My focus is on the **post-cloud paradigm**: **Cloud Repatriation**, Edge AI, and Infrastructure as Data. As workloads scale and latency demands tighten, infrastructure must return to the metal.
+My focus is on the **post-cloud paradigm**: Cloud Repatriation, Edge AI, and Infrastructure as Data. As workloads scale and latency demands tighten, infrastructure must return to the metal.
 
 *    **My Mission:** To bypass high-level abstractions and Optimizing Linux primitives (**Kernel**, **eBPF**) that power high-performance computing.
 *    **The Advantage:** Applying my **Network Engineering** (L2/L3) and **SOC Analyst** experience to secure and optimize the bare-metal layers that AI demands.
