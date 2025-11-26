@@ -38,7 +38,7 @@ To architect the supercomputers of tomorrow, one must master the SysAdmin tools 
 
 | **Phase** | **Domain** | **Certification / Focus** | **Status** |
 |:---:|:---:|:---:|:---:|
-| **I** | **The Kernel** | **RHCSA** (Red Hat Certified SysAdmin) | ♦︎ *In Progress* |
+| **I** | **The Kernel** | **RHCSA** (Red Hat Certified SysAdmin) | 🏁 *In Progress* |
 | **II** | **Automation** | **RHCE** (Ansible & Automation) | ⏳ *Planned* |
 | **III** | **Orchestration** | **CKA** (Kubernetes Administrator) | ⏳ *Planned* |
 | **IV** | **Infra** | **Nvidia GPU Ops, Cilium, Rook** | 🫎 *Future Focus* |
@@ -46,23 +46,6 @@ To architect the supercomputers of tomorrow, one must master the SysAdmin tools 
 
 
 </div>
-
----
-
-### 🏁 **The "Bleeding Edge"**
-
-#### 1. Infrastructure as Data (IaD)
-*Moving beyond fragile YAML.*
-I am utilizing **KCL (Kubernetes Config Language)** and **CUE** to bring type-safety, logic, and validation to infrastructure definition.
-> *Goal: Eliminate configuration drift before deployment.*
-
-#### 2. High-Performance Networking (eBPF)
-*Replacing iptables for AI workloads.*
-I advocate for **Cilium** over standard Kube-Proxy. By leveraging **eBPF**, we gain kernel-level observability (Hubble) and the low-latency data plane required for distributed AI training.
-
-#### 3. Bare Metal & The Edge
-*The return to owned hardware.*
-Focusing on **PXE Boot** provisioning, **Rook/Ceph** for localized storage, and **Nvidia MIG** (Multi-Instance GPU) slicing to maximize hardware utilization.
 
 ---
 
