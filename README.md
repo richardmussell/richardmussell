@@ -18,7 +18,7 @@
 
 ---
 
-### 🛞 **The Mission: Operational Excellence & Modern Architecture**
+
 
 Aspiring  **Systems Engineer** bridging the gap between hardware primitives and Cloud Native orchestration.
 
@@ -30,7 +30,7 @@ My advantage is my foundation. I come from **Cisco Networking** and **Cybersecur
 
 ---
 
-### 🪾 **The Strategic Trajectory**
+
 
 To architect the supercomputers of tomorrow, one must master the SysAdmin tools of today.
 
@@ -39,7 +39,7 @@ To architect the supercomputers of tomorrow, one must master the SysAdmin tools 
 | **Level** | **Certification** | **Focus Area** | **Status** |
 |:---:|:---:|:---:|:---:|
 | **Foundation** | <img src="https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=flat-square&logo=redhat&logoColor=white"> | System Administration, User Mgmt, Storage | 🏁 **In Progress** |
-| **Automation** | <img src="https://img.shields.io/badge/Red_Hat-RHCE-EE0000?style=flat-square&logo=redhat&logoColor=white"> | Ansible, Automation, Config Mgmt | ⏳ Planned |
+| **Automation** | <img src="https://img.shields.io/badge/Red_Hat-RHCE-EE0000?style=flat-square&logo=redhat&logoColor=white"> | Ansible, Automation, Config Mgmt | 🏁 **In Progress** |
 | **Orchestration** | <img src="https://img.shields.io/badge/CNCF-CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white"> | Kubernetes Cluster Administration | ⏳ Planned |
 | **Architecture** | <img src="https://img.shields.io/badge/Red_Hat-RHCA-EE0000?style=flat-square&logo=redhat&logoColor=white"> | OpenShift, Multi-Cluster, Hybrid Cloud | 🫎 **The North Star** |
 
@@ -47,38 +47,40 @@ To architect the supercomputers of tomorrow, one must master the SysAdmin tools 
 
 ---
 
-### 🏗️ **Technical Arsenal**
 
-I distinguish between the tools I use professionally and the bleeding-edge stack I engineer in my home lab.
 
-#### 👷🏻‍♂️ **Core Competencies**
+
+
+####  **Core Competencies**
 *The hardened toolset I use to secure networks and automate production infrastructure.*
 
 <div align="center">
-  <!-- Operating Systems & Scripting -->
+  <!-- Operating Systems & Config Mgmt -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   
   <br/>
 
-  <!-- Network & Security (Your Unique Advantage) -->
+  <!-- Network, Security & Observability -->
   <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk_(_SOC_)-000000?style=for-the-badge&logo=splunk&logoColor=EC008C" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 
   <br/>
 
-  <!-- Cloud & Automation (The "Must Haves") -->
+  <!-- Cloud, Automation & CI/CD -->
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </div>
 
-#### 🧪 **The R&D Lab (Active Development)**
+####  **The R&D Lab (Active Development)**
 *The bleeding-edge stack I engineer in my personal R&D lab to master the Post-Cloud paradigm.*
 
 | **Domain** | **Technology Stack** | **Architectural Learning Focus** |
