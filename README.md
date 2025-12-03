@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=D9232E&center=true&vCenter=true&width=900&lines=Systems+Engineer+%7C+Network+%26+SecOps+Core;Leveraging+Cisco+Background+for+K8s+Networking;Building+Sovereign+Compute+Infrastructure;Target:+Platform+Engineering+%7C+GitOps+%7C+eBPF" alt="Typing SVG" />
 </a>
 
-### **Linux Systems Engineer | Platform Engineering | Infrastructure Architect**
+### **Linux Systems Engineer | Platform Engineering**
 
 <!-- SOCIALS -->
 <p align="center">
@@ -22,7 +22,7 @@
 
 Aspiring  **Systems Engineer** bridging the gap between hardware primitives and Cloud Native orchestration.
 
-My advantage is my foundation. I come from **Cisco Networking** and **Cybersecurity Operations (SOC)**. I don't just deploy clusters; I understand the packet flow, the security posture, and the underlying Linux kernel calls that make them work.
+I come from **Cisco Networking** and **Cybersecurity Operations (SOC)**. I don't just deploy clusters; I understand the packet flow, the security posture, and the underlying Linux kernel calls that make them work.
 
 *   **The Foundation:** Hardened expertise in **Linux Administration**, **Network Engineering (L2/L3)**, and **Terraform** automation.
 
