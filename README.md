@@ -10,22 +10,34 @@
 
 <!-- ELITE SOCIALS -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/richard-mussell/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&color=111111" alt="LinkedIn"/></a>
-  <a href="https://richardmussell.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&color=111111" alt="Portfolio"/></a>
-  <a href="mailto:richard.mussell@yahoo.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&color=111111" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/richard-mussell/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&color=111111" alt="LinkedIn"/>
+  </a>
+  <a href="https://richardmussell.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&color=111111" alt="Portfolio"/>
+  </a>
+  <a href="mailto:richard.mussell@yahoo.com">
+    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&color=111111" alt="Email"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-Leveraging a background in <b>Cisco Networking</b> and <b>Security Operations</b> to redefine <b>Cloud-Native Orchestration</b>. I engineer systems to be mathematically stable, audit-ready, and high-performance.
+  Leveraging a background in <b>Cisco Networking</b> and <b>Security Operations</b> to redefine
+  <b>Cloud-Native Orchestration</b>. Engineering systems to be stable, audit-ready,
+  and high-performance.
 </p>
 
 </div>
 
-*   **Infrastructure as Data:** Treating environment state as strictly-typed data, leveraging **Terraform** and **ArgoCD** to eliminate configuration drift.
-*   **Networking-First SRE:** Utilizing L2/L3 background to implement **Cilium/eBPF** fabrics that bypass standard kernel overhead and "sidecar tax."
-*   **Hardware-to-Software Path:** Focusing on **Bare Metal AI Infrastructure**, automating the physical lifecycle (**Tinkerbell/Redfish**) to maximize GPU throughput for LLM workloads.
+---
+
+### Engineering Philosophy
+
+* **Infrastructure as Data:** Treating environment state as strictly-typed data, leveraging **Terraform** and **ArgoCD** to eliminate configuration drift.
+* **Networking-First SRE:** Utilizing L2/L3 background to implement **Cilium/eBPF** fabrics that bypass standard kernel overhead and "sidecar tax."
+* **Hardware-to-Software Path:** Focusing on **Bare Metal AI Infrastructure**, automating the physical lifecycle (**Tinkerbell/Redfish**) to maximize GPU throughput for LLM workloads.
 
 ---
 
@@ -45,21 +57,27 @@ Leveraging a background in <b>Cisco Networking</b> and <b>Security Operations</b
 
 ---
 
-Current R&D Focus</h3>
+### Current R&D Focus
 
-*   🛞 **Intelligent Edge:** Deploying low-latency K3s/KubeVirt clusters for real-time data processing.
-*   🫎 **GPU Orchestration:** Mastering the **NVIDIA-GPU-Operator** to eliminate the hardware-software gap in Bare Metal AI Infrastructure.
-*   🪾 **Performance Engineering:** Benchmarking Linux kernel network stacks to eliminate **jitter** in distributed systems.
-*   🧑‍🦼‍➡️ **Autonomous Provisioning:** Architecting zero-touch hardware automation using **Tinkerbell** and **Redfish APIs**.
+
+* ⚙️ **CI/CD Automation:** Designing **GitHub Actions** pipelines for build, test, and deploy workflows aligned with GitOps principles.
+* 📊 **Observability:** Implementing metrics, logging, and alerting using **Prometheus** and **Grafana** to support incident response.
+* ☁️ **Cloud-Native Foundations:** Applying cloud design patterns across on-prem, edge, and Kubernetes environments.
+* 🔐 **Platform Security:** Managing **RBAC**, secrets, and least-privilege access in Kubernetes and CI/CD workflows.
+* 🛞 **Intelligent Edge:** Deploying low-latency K3s/KubeVirt clusters for real-time data processing.
+* 🫎 **GPU Orchestration:** Mastering the **NVIDIA-GPU-Operator** to eliminate the hardware-software gap in Bare Metal AI Infrastructure.
+* 🪾 **Performance Engineering:** Benchmarking Linux kernel network stacks to eliminate **jitter** in distributed systems.
+* 🧑‍🦼‍➡️ **Autonomous Provisioning:** Architecting zero-touch hardware automation using **Tinkerbell** and **Redfish APIs**.
+
 
 ---
 
-Certifications & Roadmap</h3>
+### Certifications & Roadmap
 
 <div align="center">
 
 | Status | Certification | Focus Area |
-| :---: | :--- | :--- |  
+| :---: | :--- | :--- |
 | 🏁 | **RHCSA (Red Hat)** | Enterprise Linux & Systems Engineering |
 | ⏳ | **CKA (Kubernetes)** | Production Cluster Administration |
 | 🫎 | **The North Star** | OpenShift Architecture & AI Platform Design |
