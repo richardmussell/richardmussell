@@ -21,19 +21,19 @@
 
 <p align="center">
   Leveraging a foundation in <b>Cisco Networking</b>, <b>Security Operations</b>, and <b>Bare-Metal Automation</b> 
-  to engineer sovereign AI clouds and resilient edge infrastructure, with a specialized focus on 
-  <b>marine-based OTEC cooling systems</b>.
+  to engineer <b>Sovereign AI Clouds</b> and <b>Deterministic Edge Infrastructure</b>. 
+  Specializing in <b>OTEC-powered maritime compute</b> and <b>Time-Sensitive Networking (TSN)</b>.
 </p>
 
 </div>
 
 ---
 
-### Engineering Philosophy
+###  Engineering Philosophy
 
-* **Physical-to-Digital Autonomy:** Hardware is treated as an API. Using **Tinkerbell** and **Redfish**, the bare-metal lifecycle is automated from BIOS to the Kubernetes control plane, enabling environment-independent sovereign compute.
-* **Kernel-Native Performance:** Cloud platforms are optimized at the kernel level. **eBPF** and **Cilium** are leveraged to eliminate jitter and sidecar overhead, ensuring deterministic networking for high-stakes AI and Industrial IoT workloads.
-* **Resilience as a First Principle:** Specialization in **hard-edge operations**—designing self-healing clusters for environments with constrained power and high-latency connectivity, including offshore **OTEC plants** and floating energy farms.
+* **Physical-to-Digital Autonomy:** Hardware is an API. Using **Tinkerbell** and **Redfish**, I automate the bare-metal lifecycle from BIOS to the Kubernetes control plane, enabling "Zero-Touch" sovereign compute in inaccessible environments.
+* **Deterministic Performance:** Moving beyond "best-effort" cloud. **eBPF**, **Cilium**, and **TSN (IEEE 802.1)** are leveraged to eliminate jitter, ensuring sub-microsecond precision for high-stakes AI and industrial OTEC control loops.
+* **Circular Resilience:** Infrastructure as an ecosystem. Designing self-healing, "thermal-aware" clusters where AI workload scheduling is synchronized with the physical energy-cycles of the ocean.
 
 ---
 
@@ -41,26 +41,25 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebAssembly-624DE8?style=flat-square&logo=webassembly&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-black?style=flat-square&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust_Atomics-DEA584?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_Kernel-black?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/IEEE_802.1_TSN-black?style=flat-square&logo=ieee&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Cilium_eBPF-black?style=flat-square&logo=cilium&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA_GPU_Stack-black?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_Networking-black?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebAssembly-624DE8?style=flat-square&logo=webassembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPIFFE/SPIRE-black?style=flat-square&logo=spiffe&logoColor=white" />
 </p>
 
 ---
 
-### Strategic R&D Focus
+###   Global R&D Focus
 
-* 🏄🏽 **Industrial & OTEC Orchestration:** Designing Kubernetes architectures for **Ocean Thermal Energy Conversion**, enabling workload scheduling aligned with thermal-gradient-driven power variability.
-* 🫎 **AI Infrastructure Engineering:** Advancing multi-tenant AI inference through **NVIDIA GPU Operator** and **MIG**, delivering bare-metal performance without virtualization overhead.
-* 🦀 **Wasm-Native Edge AI:** Deploying **WasmEdge** and **Spin** for ultra-efficient, low-power AI execution on remote sensors and maritime assets.
-* 🔐 **Hardware-Rooted Security:** Applying **CKS** principles alongside **SPIFFE/SPIRE** to enforce cryptographically verifiable identity from silicon to cloud.
-* 🛰️ **Latency-Resilient GitOps:** Engineering **ArgoCD** and **GitHub Actions** pipelines hardened for high-jitter, low-bandwidth environments such as satellite, radio, and remote industrial networks.
-* 📊 **Deterministic Observability:** Implementing deep-stack metrics, logging, and alerting with **Prometheus**, **Grafana**, and **OpenTelemetry** to support maritime incident response.
+* 🌊 **Marine TSN Orchestration (Maine & Tokyo):** Designing "Time-Aware" architectures for **submersible compute hulls**. Synchronizing massive AI training blocks with **Deep-Water Cooling** efficiency (Maine) and floating urban energy grids (Tokyo Bay).
+* 🫎 **Sovereign AI Refineries:** Advancing multi-tenant AI inference through **NVIDIA MIG**, delivering bare-metal performance without virtualization overhead for private national-security clusters.
+* 🦀 **Wasm-Native Edge AI (Quintana Roo):** Deploying ultra-efficient, low-power AI modules via **WasmEdge** on OTEC-powered sensors to monitor biodiversity and energy gradients in harsh tropical environments.
+* 🔐 **Hardware-Rooted Identity:** Applying **CKS** principles and **SPIFFE/SPIRE** to enforce cryptographically verifiable identity from the TPM silicon to the high-seas edge.
+* 🛰️ **Inter-Orbital GitOps:** Engineering **ArgoCD** pipelines hardened for **Delay-Tolerant Networking (DTN)**, ensuring state-consistency for maritime assets via satellite and orbital mesh relays.
 
 ---
 
@@ -70,7 +69,7 @@
 
 | Status | Milestone | Focus Area |
 | :---: | :--- | :--- |
-| 🏁 | **RHCSA (Red Hat)** | Enterprise Linux & Systems Mastery |
+| 🏁 | **RHCSA (Red Hat)** | Enterprise Linux & Real-Time Kernel Mastery |
 | ⏳ | **CKA (Kubernetes)** | Orchestrating Distributed Sovereign Compute |
 | 🌊 | **CKS (Security)** | Hardening Critical National Infrastructure |
 | 🦀 | **CKAD (Developer)** | Engineering Wasm-Native AI Applications |
@@ -78,5 +77,5 @@
 </div>
 
 <p align="center">
-  <i>"Architecting the digital nervous system for the sustainable ocean and the private AI cloud."</i>
+  <i>"Architecting the digital nervous system for a sustainable ocean and private AI cloud infrastructure."</i>
 </p>
