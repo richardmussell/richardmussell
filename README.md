@@ -1,81 +1,72 @@
 <div align="center">
 
+**Systems Engineer | Rust & Wasm Specialist | Kubernetes Orchestrator**
+
 <p align="center">
-  <strong>Bridging the gap between raw hardware and intelligent orchestration.</strong>
+  <strong>Engineering the bridge between high-performance hardware and cloud-native orchestration.</strong>
 </p>
 
-<!-- ELITE SOCIALS -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/richard-mussell/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&color=111111" alt="LinkedIn"/>
-  </a>
-  <a href="https://richardmussell.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&color=111111" alt="Portfolio"/>
-  </a>
-  <a href="mailto:richard.mussell@yahoo.com">
-    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&color=111111" alt="Email"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&color=111111)](https://www.linkedin.com/in/richard-mussell/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&color=111111)](https://richardmussell.github.io/)
+[![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&color=111111)](mailto:richard.mussell@yahoo.com)
 
 ---
 
 <p align="center">
-  Leveraging a foundation in <b>Cisco Networking</b>, <b>Security Operations</b>, and <b>Bare-Metal Automation</b> 
-  to engineer <b>Sovereign AI Clouds</b> and <b>Deterministic Edge Infrastructure</b>. 
-  Specializing in <b>OTEC-powered maritime compute</b> and <b>Time-Sensitive Networking (TSN)</b>.
+  Specializing in <b>Sovereign Infrastructure</b> and <b>Deterministic Edge Compute</b>. 
+  building memory-safe systems in <b>Rust</b>, orchestrate distributed workloads via <b>Kubernetes</b>, 
+  and explore the future of sandboxed execution with <b>WebAssembly (Wasm)</b>.
 </p>
 
 </div>
 
 ---
 
-###  Engineering Philosophy
+### 🪅 The Mastery Stack
 
-* **Physical-to-Digital Autonomy:** Hardware is an API. Using **Tinkerbell** and **Redfish**, I automate the bare-metal lifecycle from BIOS to the Kubernetes control plane, enabling "Zero-Touch" sovereign compute in inaccessible environments.
-* **Deterministic Performance:** Moving beyond "best-effort" cloud. **eBPF**, **Cilium**, and **TSN (IEEE 802.1)** are leveraged to eliminate jitter, ensuring sub-microsecond precision for high-stakes AI and industrial OTEC control loops.
-* **Circular Resilience:** Infrastructure as an ecosystem. Designing self-healing, "thermal-aware" clusters where AI workload scheduling is synchronized with the physical energy-cycles of the ocean.
-
----
-
-<h5 align="center">The Mastery Stack</h5>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust_Atomics-DEA584?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Kernel-black?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/IEEE_802.1_TSN-black?style=flat-square&logo=ieee&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Cilium_eBPF-black?style=flat-square&logo=cilium&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA_GPU_Stack-black?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebAssembly-624DE8?style=flat-square&logo=webassembly&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPIFFE/SPIRE-black?style=flat-square&logo=spiffe&logoColor=white" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Safe Systems** | **Rust** (Tokio, Cargo), **WebAssembly** (Wasm/WASI), Go, Python, Bash |
+| **Orchestration** | **Kubernetes** (Control Plane, K3s, Helm), Docker, Containerd |
+| **Infrastructure** | **Terraform**, GitHub Actions (CI/CD), Linux (RHEL/Ubuntu), eBPF (Aya) |
+| **Networking** | **WireGuard**, TCP/IP, DNS, Prometheus/Grafana, L3/L4 Protocol Engineering |
 
 ---
 
-###   Global R&D Focus
+### 🫎 Key Projects (Systems Engineering Focus)
 
-* 🌊 **Marine TSN Orchestration (Maine & Tokyo):** Designing "Time-Aware" architectures for **submersible compute hulls**. Synchronizing massive AI training blocks with **Deep-Water Cooling** efficiency (Maine) and floating urban energy grids (Tokyo Bay).
-* 🫎 **Sovereign AI Refineries:** Advancing multi-tenant AI inference through **NVIDIA MIG**, delivering bare-metal performance without virtualization overhead for private national-security clusters.
-* 🦀 **Wasm-Native Edge AI (Quintana Roo):** Deploying ultra-efficient, low-power AI modules via **WasmEdge** on OTEC-powered sensors to monitor biodiversity and energy gradients in harsh tropical environments.
-* 🔐 **Hardware-Rooted Identity:** Applying **CKS** principles and **SPIFFE/SPIRE** to enforce cryptographically verifiable identity from the TPM silicon to the high-seas edge.
-* 🛰️ **Inter-Orbital GitOps:** Engineering **ArgoCD** pipelines hardened for **Delay-Tolerant Networking (DTN)**, ensuring state-consistency for maritime assets via satellite and orbital mesh relays.
+####  [rust-wasm-runtime](https://richardmussell.github.io/)
+A high-performance execution environment built in **Rust** for running sandboxed **WebAssembly** modules. Focused on sub-millisecond cold starts and WASI compliance for edge environments.
+
+####  [k8s-operator-rs](https://richardmussell.github.io/)
+A custom Kubernetes Controller (Operator) written in **Rust** using `kube-rs`. Automates the reconciliation of specialized infrastructure nodes and demonstrates deep-dive knowledge of the **K8s API Server**.
+
+####  [ebpf-monitor-aya](https://richardmussell.github.io/)
+A Linux observability agent using **eBPF** (via the **Aya** library in Rust) to monitor kernel-level syscalls. Streams real-time performance telemetry to a **Prometheus** time-series database.
+
+####  [baremetal-iac-lab](https://richardmussell.github.io/)
+Automated bare-metal provisioning using **Terraform** and **GitHub Actions**. Enables "Zero-Touch" infrastructure deployments from BIOS configuration to a fully initialized K3s cluster.
 
 ---
 
-### Applied Engineering Roadmap
+### 🌊 Sovereign & Maritime Research
+*Centered on cloud-native engineering, gravitating toward the unique challenges of specialized, sovereign environments:*
 
-<div align="center">
+* **OTEC Compute Hulls:** Designing "thermal-aware" Kubernetes scheduling synchronized with the energy cycles of Ocean Thermal Energy Conversion (OTEC).
+* **Maritime TSN:** Leveraging **Time-Sensitive Networking (TSN)** to eliminate jitter in submersible AI control loops.
+* **Deterministic AI Edge:** Deploying ultra-low-power **Wasm-Native** AI modules for remote maritime sensor arrays.
 
-| Status | Milestone | Focus Area |
+---
+
+### 🔱 Roadmap to Mastery
+
+| Status | Milestone | Target |
 | :---: | :--- | :--- |
-| 🏁 | **RHCSA (Red Hat)** | Enterprise Linux & Real-Time Kernel Mastery |
-| ⏳ | **CKA (Kubernetes)** | Orchestrating Distributed Sovereign Compute |
-| 🌊 | **CKS (Security)** | Hardening Critical National Infrastructure |
-| 🦀 | **CKAD (Developer)** | Engineering Wasm-Native AI Applications |
-
-</div>
+| 🏁 | **B.S. Information Technology** | Systems & Cybersecurity Focus (CWU 2024) |
+| ⏳ | **CKA (Kubernetes)** | Associate Infrastructure Orchestration |
+| 🦀 | **Rust Systems Project** | Building Memory-Safe Distributed Tooling |
+| 🕸 | **CKS (Security)** | Hardening Sovereign Cloud Infrastructure |
 
 <p align="center">
-  <i>"Architecting the digital nervous system for a sustainable ocean and private AI cloud infrastructure."</i>
+  <i>"Moving beyond best-effort cloud—architecting deterministic, sovereign, and resilient systems."</i>
 </p>
