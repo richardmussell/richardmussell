@@ -1,6 +1,6 @@
 <div align="center">
 
-**Systems Engineer | Rust & Wasm Specialist | Kubernetes Orchestrator**
+**Systems Engineer | Kubernetes Orchestrator**
 
 <p align="center">
   <strong>Engineering the bridge between high-performance hardware and cloud-native orchestration.</strong>
