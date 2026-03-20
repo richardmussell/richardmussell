@@ -1,10 +1,8 @@
 <div align="center">
 
-**Systems Engineer | Kubernetes Orchestrator**
+**IT Systems Administrator | Platform Operations**
 
-<p align="center">
-  <strong>Engineering the bridge between high-performance hardware and cloud-native orchestration.</strong>
-</p>
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&color=111111)](https://www.linkedin.com/in/richard-mussell/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&color=111111)](https://richardmussell.github.io/)
@@ -13,9 +11,10 @@
 ---
 
 <p align="center">
-  Specializing in <b>Sovereign Infrastructure</b> and <b>Deterministic Edge Compute</b>. 
-  building memory-safe systems in <b>Rust</b>, orchestrate distributed workloads via <b>Kubernetes</b>, 
-  and explore the future of sandboxed execution with <b>WebAssembly (Wasm)</b>.
+  <b>IT Systems Professional</b> and BS in ITAM graduate. 
+  Specializing in the reliable administration of <b>hybrid-cloud environments</b>—from managing 
+  core <b>Active Directory/Entra ID</b> fabrics to engineering secure, 
+  automated system lifecycles via <b>Terraform</b> and <b>Kubernetes</b>.
 </p>
 
 </div>
@@ -26,35 +25,35 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Safe Systems** | **Rust** (Tokio, Cargo), **WebAssembly** (Wasm/WASI), Go, Python, Bash |
-| **Orchestration** | **Kubernetes** (Control Plane, K3s, Helm), Docker, Containerd |
-| **Infrastructure** | **Terraform**, GitHub Actions (CI/CD), Linux (RHEL/Ubuntu), eBPF (Aya) |
-| **Networking** | **WireGuard**, TCP/IP, DNS, Prometheus/Grafana, L3/L4 Protocol Engineering |
+| **Cloud & Orchestration** | **Terraform (IaC)**, Kubernetes (k8s), Pulumi, Docker, GitHub Actions, GCP/AWS |
+| **Systems & Admin** | **Linux (RHEL/Ubuntu)**, Windows Server 2022, **Active Directory (GPO)**, Hardening |
+| **Networking** | **CCNA Foundation**, TCP/IP, VLANs, Cisco IOS CLI, WireGuard VPN, DNS/DHCP |
+| **Automation & Identity** | **Bash Scripting**, PowerShell, Identity Lifecycle (IAM), RBAC, NIST Framework |
 
 ---
 
-### 🫎 Key Projects (Systems Engineering Focus)
+### 🫎 Key Projects (Infrastructure & Platform Focus)
 
-####  [rust-wasm-runtime](https://richardmussell.github.io/)
-A high-performance execution environment built in **Rust** for running sandboxed **WebAssembly** modules. Focused on sub-millisecond cold starts and WASI compliance for edge environments.
+####  [Hardened Cloud Landing Zone (IaC)](https://richardmussell.github.io/)
+Deterministic GCP provisioning via **Terraform** modules. Implements GCS state-locking and **NIST 800-53** compliant private-first networking to eliminate configuration drift.
 
-####  [k8s-operator-rs](https://richardmussell.github.io/)
-A custom Kubernetes Controller (Operator) written in **Rust** using `kube-rs`. Automates the reconciliation of specialized infrastructure nodes and demonstrates deep-dive knowledge of the **K8s API Server**.
+####  [Systems Lifecycle Automation Framework](https://richardmussell.github.io/)
+An idempotent, POSIX-compliant **Bash** framework for automated user provisioning and CIS-standard system hardening. Designed to ensure a repeatable, secure system state across a fleet.
 
-####  [ebpf-monitor-aya](https://richardmussell.github.io/)
-A Linux observability agent using **eBPF** (via the **Aya** library in Rust) to monitor kernel-level syscalls. Streams real-time performance telemetry to a **Prometheus** time-series database.
+####  [Multi-Tier Strategic Observability](https://richardmussell.github.io/)
+Unified telemetry pipeline via **Prometheus** and the **ELK Stack**. Maps technical heuristics to operational **SLO/SLI** targets, focusing on actionable signals and noise reduction.
 
-####  [baremetal-iac-lab](https://richardmussell.github.io/)
-Automated bare-metal provisioning using **Terraform** and **GitHub Actions**. Enables "Zero-Touch" infrastructure deployments from BIOS configuration to a fully initialized K3s cluster.
+####  [Zero-Trust Administrative Fabric](https://richardmussell.github.io/)
+Identity-governed **ZTNA** architecture via **WireGuard** and AWS. Features **Active Directory** integrated access revocation and MSS clamping for cross-cloud packet stability.
 
 ---
 
-### 🌊 Sovereign & Maritime Research
-*Centered on cloud-native engineering, gravitating toward the unique challenges of specialized, sovereign environments:*
+### ⚔️ Engineering Methodology & Discipline
+*Centered on operational excellence, focusing on the core pillars of modern infrastructure:*
 
-* **OTEC Compute Hulls:** Designing "thermal-aware" Kubernetes scheduling synchronized with the energy cycles of Ocean Thermal Energy Conversion (OTEC).
-* **Maritime TSN:** Leveraging **Time-Sensitive Networking (TSN)** to eliminate jitter in submersible AI control loops.
-* **Deterministic AI Edge:** Deploying ultra-low-power **Wasm-Native** AI modules for remote maritime sensor arrays.
+* **Configuration Drift Prevention:** Enforcing deterministic system state via declarative IaC and robust Group Policy (GPO) management.
+* **Identity-First Security:** Centering all infrastructure access around centralized Active Directory fabrics and least-privilege RBAC.
+* **Operational Visibility:** Prioritizing actionable telemetry and log enrichment over data noise to reduce MTTR and ensure uptime.
 
 ---
 
@@ -63,10 +62,7 @@ Automated bare-metal provisioning using **Terraform** and **GitHub Actions**. En
 | Status | Milestone | Target |
 | :---: | :--- | :--- |
 | 🏁 | **B.S. Information Technology** | Systems & Cybersecurity Focus (CWU 2024) |
-| ⏳ | **CKA (Kubernetes)** | Associate Infrastructure Orchestration |
-| 🦀 | **Rust Systems Project** | Building Memory-Safe Distributed Tooling |
-| 🕸 | **CKS (Security)** | Hardening Sovereign Cloud Infrastructure |
+| ⏳ | **RHCSA (Red Hat)** | Linux Systems Administration Mastery |
+| 🕸 | **CKA (Kubernetes)** | Cloud-Native Infrastructure Orchestration |
 
-<p align="center">
-  <i>"Moving beyond best-effort cloud—architecting deterministic, sovereign, and resilient systems."</i>
-</p>
+
